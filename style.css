@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color: green;
+}
+
+header {
+    color: white;
+    background-color: green;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+   @font-face {
+       font-family: 'idroid'
+              src: url('idroid.otf');
+   }
+
+
+p {
+    
+}
+
+main {
+    background-color: white;
+}
